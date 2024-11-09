@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# guitar-repertoire-app
+Github Pages 배포 주소: https://seohyun-lee.github.io/guitar-repertoire-app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
 ## Available Scripts
 
