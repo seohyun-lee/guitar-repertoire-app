@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guitar-repertoire-app/static/css/main.a82500fc.css",
+    "main.js": "/guitar-repertoire-app/static/js/main.6e67b4d7.js",
+    "static/js/453.ec8458fc.chunk.js": "/guitar-repertoire-app/static/js/453.ec8458fc.chunk.js",
+    "index.html": "/guitar-repertoire-app/index.html",
+    "main.a82500fc.css.map": "/guitar-repertoire-app/static/css/main.a82500fc.css.map",
+    "main.6e67b4d7.js.map": "/guitar-repertoire-app/static/js/main.6e67b4d7.js.map",
+    "453.ec8458fc.chunk.js.map": "/guitar-repertoire-app/static/js/453.ec8458fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a82500fc.css",
+    "static/js/main.6e67b4d7.js"
+  ]
+}
