@@ -227,7 +227,7 @@ const SongCard = ({ song, onEdit, onDelete }) => (
                 </div>
               </DropdownMenuTrigger>
               {/* Edit option */}
-              <DropdownMenuContent className="bg-white border-gray-200 text-gray-700">
+              <DropdownMenuContent className="bg-white border-gray-200 text-gray-700 rounded-xl">
                 <DropdownMenuItem
                   className="hover:bg-gray-100 cursor-pointer"
                   onClick={() => onEdit(song)} // Use the onEdit prop here
